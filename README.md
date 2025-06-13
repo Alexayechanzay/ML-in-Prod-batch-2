@@ -206,3 +206,7 @@ This repository contains materials for the "Machine Learning Systems for Product
 
 ### Connect Me
 If you're interested in my course, feel free to connect with me.
+
+
+### Note: SSH key generation 
+ssh-keygen -t rsa -f ed25519 -C alexaczmdy@gmail.com
